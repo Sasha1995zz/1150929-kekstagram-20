@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Забелина](https://up.htmlacademy.ru/javascript/20/user/1150929).
-* Наставник: `Неизвестно`.
+* Наставник: `его нет`.
 
 ---
 
